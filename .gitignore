@@ -130,3 +130,9 @@ dmypy.json
 
 # xlsx
 *.xlsx
+
+#images
+/img
+
+#png
+*.png
